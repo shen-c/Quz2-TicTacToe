@@ -133,8 +133,8 @@ int main(){
         scanf("%d", &choice);
     }while(choice != 0);
 
-    printf("\nTHANKS FOR PLAYING! \n\n");
-    printf("===========================\n");
+    printf("\nTHANKS FOR PLAYING! \n");
+    printf("\n===========================\n");
 
     return 0;
 }
