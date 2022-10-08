@@ -134,7 +134,7 @@ int main(){
     }while(choice != 0);
 
     printf("\nTHANKS FOR PLAYING! \n\n");
-    printf("===========================\n\n");
+    printf("===========================\n");
 
     return 0;
 }
